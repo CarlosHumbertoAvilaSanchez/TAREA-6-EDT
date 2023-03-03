@@ -1,0 +1,182 @@
+a
+One|
+James Hetfield|
+James Hetfield|
+1
+OneByMetallica|
+-1
+a
+Fear Of The Dark|
+Steve Harris|
+Steve Harris|
+4
+FODByIronMaiden|
+-1
+a
+LoveGun|
+Paul Stanley|
+Paul Stanley|
+21
+LoveGunByKISS|
+-1
+a
+Stairway to Heaven|
+Jimmy Page|
+Robert Plant|
+7
+StairwayToHeavenByLedZeppelin|
+-1
+a
+Back in Black|
+Angus Young|
+Brian Johnson|
+14
+BackInBlackByACDC|
+-1
+a
+Master of Puppets|
+James Hetfield|
+James Hetfield|
+23
+MasterOfPuppetsByMetallica|
+-1
+a
+Sweet Child o' Mine|
+Saul Hudson|
+Axl Rose|
+2
+SweetChildOMineByGunsNRoses|
+-1
+a
+Enter Sandman|
+James Hetfield|
+James Hetfield|
+11
+EnterSandmanByMetallica|
+-1
+a
+Crazy Train|
+Randy Rhoads|
+Ozzy Osbourne|
+9
+CrazyTrainByOzzyOsbourne|
+-1
+a
+Walk|
+Dimebag Darrell|
+Phil Anselmo|
+29
+WalkByPantera|
+-1
+a
+November Rain|
+Saul Hudson|
+Axl Rose|
+20
+NovemberRainByGunsNRoses|
+-1
+a
+Livin' on a Prayer|
+Richie Sambora|
+Jon Bon Jovi|
+42
+LivinOnAPrayerByBonJovi|
+-1
+a
+Hysteria|
+Steve Clark|
+Joe Elliott|
+37
+HysteriaByDefLeppard|
+-1
+a
+Breaking the Law|
+Glenn Tipton|
+Rob Halford|
+15
+BreakingTheLawByJudasPriest|
+-1
+a
+Iron Man|
+Tony Iommi|
+Ozzy Osbourne|
+25
+IronManByBlackSabbath|
+-1
+a
+Welcome to the Jungle|
+Saul Hudson|
+Axl Rose|
+8
+WelcomeToTheJungleByGunsNRoses|
+-1
+a
+The Trooper|
+Steve Harris|
+Bruce Dickinson|
+44
+TheTrooperByIronMaiden|
+-1
+a
+Pour Some Sugar on Me|
+Phil Collen|
+Joe Elliott|
+12
+PourSomeSugarOnMeByDefLeppard|
+-1
+a
+Symphony of Destruction|
+Dave Mustaine|
+Dave Mustaine|
+35
+SymphonyOfDestructionByMegadeth|
+-1
+a
+Crazy on You|
+Nancy Wilson|
+Ann Wilson|
+19
+CrazyOnYouByHeart|
+-1
+a
+Kickstart My Heart|
+Mick Mars|
+Vince Neil|
+3
+KickstartMyHeartByMotleyCrue|
+-1
+a
+Raining Blood|
+Kerry King|
+Tom Araya|
+40
+RainingBloodBySlayer|
+-1
+a
+Thunderstruck|
+Angus Young|
+Brian Johnson|
+5
+ThunderstruckByACDC|
+-1
+a
+Rainbow in the Dark|
+Ronnie James Dio|
+Ronnie James Dio|
+22
+RainbowInTheDarkByDIO|
+-1
+a
+Nothing Else Matters|
+James Hetfield|
+James Hetfield|
+13
+NothingElseMattersByMetallica|
+-1
+-----------------------------------------
+Holy Diver|
+Ronnie James Dio|
+Ronnie James Dio|
+16
+HolyDiverByDIO|
+-1
